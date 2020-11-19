@@ -11,3 +11,4 @@
 * #### git status, verifica os arquivos de uma branch</br>
 * #### git log, mostra uma lista com todos os commits</br>
 * #### git checkout -a NOME, cria uma branch</br>
+* #### git checkout  NOME, muda uma branch</br>
