@@ -1,4 +1,4 @@
-# Aulas-de-Node
+# Aulas-de-Node-&-Git
 ## Estudos meus sobre Node.js e Git</br>
 
 ### Alguns comandos git importantes de lembrar</br> 
@@ -12,3 +12,5 @@
 * #### git log, mostra uma lista com todos os commits</br>
 * #### git checkout -a NOME, cria uma branch</br>
 * #### git checkout  NOME, muda uma branch</br>
+* #### git remote, verifica se o projeto está remoto no GitHub</br>
+* #### git remote add origin LINK_DO_REPOSITORIO, enviar para um repositorio remoto</br>
