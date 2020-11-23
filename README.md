@@ -14,3 +14,4 @@
 * #### git checkout  NOME, muda uma branch</br>
 * #### git remote, verifica se o projeto está remoto no GitHub</br>
 * #### git remote add origin LINK_DO_REPOSITORIO, enviar para um repositorio remoto</br>
+* #### git clone, baixa o repositorio</br>
