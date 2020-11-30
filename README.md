@@ -1,7 +1,12 @@
 # Aulas-de-Node-&-Git
 ## Estudos meus sobre Node.js e Git</br>
 
-### Alguns comandos git importantes de lembrar</br> 
+### Alguns comandos git importantes de lembrar</br>
+* ### Configurando Git</br>
+  * #### git config --global user.name "SEU NOME", seta o nome do usuario</br>
+  * #### git config --global user.email "SEU EMAIL", seta o email do usuario</br>
+  * #### git config user.name, mostra o nome do usuario</br>
+  * #### git config user.email, mostra o email do usuario</br>
 * #### Git init, inicia um repositorio </br>
 * #### git add *, adicionar mudanças</br>
 * #### git commit, salva as mudanças no servidor</br>
