@@ -7,6 +7,8 @@
   * #### git config --global user.email "SEU EMAIL", seta o email do usuario</br>
   * #### git config user.name, mostra o nome do usuario</br>
   * #### git config user.email, mostra o email do usuario</br>
+  * #### git config --unset --global user.email, destroi o e-mail definido</br>
+  * #### git config --unset --global user.name, destroi o name definido</br>
 * #### Git init, inicia um repositorio </br>
 * #### git add *, adicionar mudanças</br>
 * #### git commit, salva as mudanças no servidor</br>
