@@ -20,6 +20,7 @@
 * #### git log, mostra uma lista com todos os commits</br>
 * #### git checkout -b NOME, cria uma branch</br>
 * #### git checkout  NOME, muda uma branch</br>
+* #### git checkout -t origin/branch-name, baixa uma branch do repositorio
 * #### git remote, verifica se o projeto está remoto no GitHub</br>
 * #### git remote add origin LINK_DO_REPOSITORIO, enviar para um repositorio remoto</br>
 * #### git clone, baixa o repositorio</br>
