@@ -18,7 +18,7 @@
 * #### git merge, cria a união de 2 branch's</br>
 * #### git status, verifica os arquivos de uma branch</br>
 * #### git log, mostra uma lista com todos os commits</br>
-* #### git checkout -a NOME, cria uma branch</br>
+* #### git checkout -b NOME, cria uma branch</br>
 * #### git checkout  NOME, muda uma branch</br>
 * #### git remote, verifica se o projeto está remoto no GitHub</br>
 * #### git remote add origin LINK_DO_REPOSITORIO, enviar para um repositorio remoto</br>
